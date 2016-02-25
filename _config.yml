@@ -1,0 +1,28 @@
+name: Grindstone Sinners
+favicon: null
+layout_spectrum: 0.05732485488988459
+typography_spectrum: 0.49175864225253463
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6722833183594048
+  lightness: 0.5584012218751013
+  saturation: 0.7463258900679648
+  rhythmicContrast: 0.7091409540735185
+purpose: []
